@@ -1,0 +1,17 @@
+{
+  "api": "1",
+  "type": "anime",
+  "name": "mxdm",
+  "version": "1.0",
+  "muliSources": true,
+  "useWebview": true,
+  "useNativePlayer": true,
+  "userAgent": "",
+  "baseURL": "https://www.mxdm9.cc/",
+  "searchURL": "https://www.mxdm9.cc/search/-------------.html?wd=@keyword",
+  "searchList": "//div/div[2]/div/div//div",
+  "searchName": "//div[1]/h3/a",
+  "searchResult": "//div[1]/h3/a",
+  "chapterRoads": "//div/div[2]/div",
+  "chapterResult": "//div/div/div/a"
+}
